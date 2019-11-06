@@ -37,6 +37,8 @@ const renderVenues = (venues) => {
     $destination.append(`<h2>${venues[0].location.city}</h2>`);
 }
 
+//need to delete
+
 const renderForecast = (day) => {
     // Add your code here:
 
